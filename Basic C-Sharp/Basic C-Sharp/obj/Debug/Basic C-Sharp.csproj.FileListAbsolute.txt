@@ -1,0 +1,7 @@
+E:\C#\Practise\Basic C-Sharp\Basic C-Sharp\bin\Debug\Basic C-Sharp.exe.config
+E:\C#\Practise\Basic C-Sharp\Basic C-Sharp\bin\Debug\Basic C-Sharp.exe
+E:\C#\Practise\Basic C-Sharp\Basic C-Sharp\bin\Debug\Basic C-Sharp.pdb
+E:\C#\Practise\Basic C-Sharp\Basic C-Sharp\obj\Debug\Basic C-Sharp.csprojAssemblyReference.cache
+E:\C#\Practise\Basic C-Sharp\Basic C-Sharp\obj\Debug\Basic C-Sharp.csproj.CoreCompileInputs.cache
+E:\C#\Practise\Basic C-Sharp\Basic C-Sharp\obj\Debug\Basic C-Sharp.exe
+E:\C#\Practise\Basic C-Sharp\Basic C-Sharp\obj\Debug\Basic C-Sharp.pdb
